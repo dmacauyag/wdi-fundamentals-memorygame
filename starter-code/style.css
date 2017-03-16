@@ -39,6 +39,10 @@ p {
 	margin: auto;
 }
 
+button {
+	margin: 15px;
+}
+
 div.board {
 	height: 50%;
 	width: 50%;
@@ -53,6 +57,11 @@ div.card {
 	margin: 8%;
 	background-color: #ffff00;
 	float: left;
+}
+
+img {
+	height: 200px;
+	width: 150px;
 }
 
 footer {
